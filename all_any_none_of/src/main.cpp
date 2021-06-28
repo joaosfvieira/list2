@@ -57,7 +57,7 @@ int main ( void )
         result = which_lib::all_of( std::begin(A), std::begin(A),
                 []( const int& e ){ return e > 30; } );
 
-        EXPECT_TRUE( result );
+        EXPECT_FALSE( result );
     }
 
     //== any_of
@@ -103,7 +103,7 @@ int main ( void )
         result = which_lib::any_of( std::begin(A), std::begin(A),
                 []( const int& e ){ return e > 30; } );
 
-        EXPECT_TRUE( result );
+        EXPECT_FALSE( result );
     }
 
     //== none_of

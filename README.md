@@ -92,16 +92,16 @@ iterators apontando para as posições respectivas de _begin()_ e _end()_ de um 
 
 Assim os exercícios que faremos são os seguintes:
 
-1. [minmax](./minmax)
-2. [reverse](./reverse)
-3. [copy](./copy)
-4. [find_if](./find_if)
-5. [find](./find)
-6. [all/any/none_of](./all_any_none_of)
-7. [equal](./equal)
-8. [unique](./unique)
-9. [partition](./partition)
-10. [sort](./sort)
-11. [rotate](./rotate)
+1. [minmax](./minmax) [X]
+2. [reverse](./reverse) [X]
+3. [copy](./copy) [X]
+4. [find_if](./find_if) [X]
+5. [find](./find) [X]
+6. [all/any/none_of](./all_any_none_of) [X]
+7. [equal](./equal) [X]          
+8. [unique](./unique) [ ]           APARENTEMENTE COMPLEXA
+9. [partition](./partition) [ ]            REORDENA
+10. [sort](./sort) [ ]            ORDENA
+11. [rotate](./rotate) [ ]          ROTAÇÃO ~ORDENAÇÃO~
 
 

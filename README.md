@@ -99,9 +99,9 @@ Assim os exercícios que faremos são os seguintes:
 5. [find](./find) [X]
 6. [all/any/none_of](./all_any_none_of) [X]
 7. [equal](./equal) [X]          
-8. [unique](./unique) [ ]           APARENTEMENTE COMPLEXA
-9. [partition](./partition) [ ]            REORDENA
-10. [sort](./sort) [ ]            ORDENA
-11. [rotate](./rotate) [ ]          ROTAÇÃO ~ORDENAÇÃO~
+8. [unique](./unique) [ ]           
+9. [partition](./partition) [ ]            
+10. [sort](./sort) [ ]           
+11. [rotate](./rotate) [ ]        
 
 
